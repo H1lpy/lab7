@@ -45,7 +45,7 @@ namespace ConsoleApp1
             }
             Console.WriteLine();
 
-            for (int i = 1; i < p.Length ; i+=2)
+            for (int i = 0; i < p.Length ; i+=2)
             {
                 if (p[i] > 0)
                 {
